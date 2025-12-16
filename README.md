@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>🎓 Computer Science student  <br>🌱 Learning Full Stack Development & DSA  <br>💻 Building projects to improve my skills  <br>🤝 Open to collaborations and internships  <br>
+## 👋 About Me<br><br>🎓 Computer Science student  <br>🌱 Learning Full Stack Development & DSA  <br>💻 Building projects to improve my skills  <br>🤝 Open to collaborations and internships  <br>💡 Passionate about problem-solving, writing clean and efficient code, and creating scalable applications  <br>🚀 Eager to learn cutting-edge technologies and apply them in real-world projects  <br>🎯 Focused on delivering impactful solutions and contributing to innovative teams  <br>📚 Strong foundation in algorithms, data structures, and software engineering principles  <br>🌍 Interested in Web Development, AI/ML, and Data-Driven Applications  <br>💬 Open to mentoring, knowledge sharing, and tackling challenging technical problems
 
 
 ## 🌐 Socials:
